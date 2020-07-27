@@ -14,7 +14,7 @@ and an Ethical Hacker and Cyber Security Enthusiast.
 ```
 <hr>  
 <br>
-    <a href="https://shubhadeepmandal394.netlify.app/#contact" target="_blank"><img src="https://img.shields.io/badge/A-Contact%20Me-green"></a><spacer type="horizontal" width="100" height="100" color>            </spacer>
+    <a href="https://shubhadeepmandal394.netlify.app/#contact" target="_blank"><img src="https://img.shields.io/badge/A-Contact%20Me-green"></a><spacer type="horizontal" width="100" height="100" color>      |      </spacer>
     <a href="https://www.freelancer.com/hireme/ImShubhadeep394" target="_blank"><img src="https://img.shields.io/badge/B-Hire%20Me-orange"></a><br><br><br><br><br><br>
     <a href="https://paypal.me/shubhadeepmandal394?locale.x=en_GB" target="_blank"><img src="https://img.shields.io/badge/C-Support%20Me-blue"></a>
     
