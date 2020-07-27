@@ -4,24 +4,17 @@
 
 
 <p align ="center">
-  <br/>
-    <a href="https://shubhadeepmandal394.netlify.app" target="_blank"><img alt="Shubhadeep Mandal Welcome" src="https://img.shields.io/badge/Welcome-Shubhadeep%20Mandal-green"></a>
-  <br>
-  <!--Hi there! I am Shubhadeep Mandal !!
-<img src=https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FImShubhadeep394>
-    https://img.shi-->
-    
-<br>
-    <a href="https://paypal.me/shubhadeepmandal394?locale.x=en_GB" target="_blank"><img alt="Shubhadeep Mandal Welcome" src="https://img.shields.io/badge/B-Support%20Me-blue"></a>
-    
-    
-<br>
 
+<a href="https://shubhadeepmandal394.netlify.app" target="_blank"><img alt="Shubhadeep Mandal Welcome" src="https://img.shields.io/badge/Welcome-Shubhadeep%20Mandal-green"></a>
+    
 ```python
-Hi there! I am Shubhadeep Mandal !!
+Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Developer,and an Ethical Hacker and Cyber Security Enthusiast, and am looking forward to build a career in it. 
 ```
+<a href="https://paypal.me/shubhadeepmandal394?locale.x=en_GB" target="_blank"><img alt="Shubhadeep Mandal Welcome" src="https://img.shields.io/badge/B-Support%20Me-blue"></a>
+<a href="https://shubhadeepmandal394.netlify.app/#contact" target="_blank"><img alt="Shubhadeep Mandal Welcome" src="https://img.shields.io/badge/A-Contact%20Me-green"></a>
 
 </p>
+
 <!--
 **shubhadeepmandal394/shubhadeepmandal394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
