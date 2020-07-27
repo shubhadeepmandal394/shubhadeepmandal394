@@ -10,8 +10,10 @@
 </p>
 
 Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Developer,and an Ethical Hacker and Cyber Security Enthusiast. 
-> I’m currently working on [*Vehicle Authentication Technology Project*](https://github.com/shubhadeepmandal394/vehicle-authentication) 
-> I’m currently learning [Cyber Security Tools and Cyber Attacks](https://www.coursera.org/user/3ab0ba756fb4a2f2b6e1975d3017d09a) by IBM from [Coursera](https://www.coursera.org/).
+- 🔭 I’m currently working on [Vehicle Authentication Technology](https://github.com/shubhadeepmandal394/vehicle-authentication) Project.
+- 🌱 I’m currently learning [Introduction to Cyber Security Tools and Cyber Attacks](https://www.coursera.org/user/3ab0ba756fb4a2f2b6e1975d3017d09a) by IBM from Coursera and Ethical Hacking from Internshala.
+
+<hr>
 
 <p align ="center">
 <br>
