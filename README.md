@@ -14,10 +14,10 @@ Hi there! I am Shubhadeep Mandal, I am an Android Application Developer,
     and am looking forward to build a career in it. 
 ```
 <br>
-    <a href="https://shubhadeepmandal394.netlify.app/#contact" target="_blank"><img alt="Shubhadeep Mandal Welcome" src="https://img.shields.io/badge/A-Contact%20Me-green"></a>
+    <a href="https://shubhadeepmandal394.netlify.app/#contact" target="_blank"><img src="https://img.shields.io/badge/A-Contact%20Me-green"></a>
     <hr>
-    <a href="https://shubhadeepmandal394.netlify.app/#contact" target="_blank"><img alt="Shubhadeep Mandal Welcome" src="https://img.shields.io/badge/A-Contact%20Me-green"></a>
-    <a href="https://paypal.me/shubhadeepmandal394?locale.x=en_GB" target="_blank"><img alt="Shubhadeep Mandal Welcome" src="https://img.shields.io/badge/B-Support%20Me-blue"></a>
+    <a href="https://www.freelancer.com/hireme/ImShubhadeep394" target="_blank"><img src="https://img.shields.io/badge/B-Hire%20Me-orange"></a>
+    <a href="https://paypal.me/shubhadeepmandal394?locale.x=en_GB" target="_blank"><img src="https://img.shields.io/badge/C-Support%20Me-blue"></a>
     
 <br>
 </p>
