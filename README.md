@@ -6,8 +6,10 @@
 <p align ="center">
   <br/><a href="https://shubhadeepmandal394.netlify.app"><img alt="Shubhadeep Mandal Welcome" src="https://img.shields.io/badge/Welcome-Shubhadeep%20Mandal-green"></a>
   <br>
-  Hi there! I am Shubhadeep Mandal !!
-
+  <!--Hi there! I am Shubhadeep Mandal !!-->
+    <br>
+    <img src=https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FImShubhadeep394>
+<br>
 
 ```python
 Hi there! I am Shubhadeep Mandal !!
