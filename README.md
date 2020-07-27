@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/banner.jpg" width="300" height="200">
+<img src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/banner.jpg">
 
 
 <p align ="center">
