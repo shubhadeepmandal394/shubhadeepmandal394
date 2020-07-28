@@ -1,5 +1,5 @@
 ## Hi there 👋
-<hr>
+
 <a href="https://shubhadeepmandal394.netlify.app"><img src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/banner.jpg"></a>
 
 
