@@ -1,10 +1,12 @@
+## Hi there 👋
 <hr>
 <a href="https://shubhadeepmandal394.netlify.app"><img src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/banner.jpg"></a>
 
 
 <p align ="center">
 <br>
-    <a href="https://www.linkedin.com/in/shubhadeepmandal394/"><img src="https://img.shields.io/badge/Welcome-Shubhadeep%20Mandal-yellow"></a>
+    <a href="https://www.linkedin.com/in/shubhadeepmandal394/"><img src="https://img.shields.io/badge/Welcome-😃-yellow"></a>
+    <a href="https://www.linkedin.com/in/shubhadeepmandal394/"><img src="https://img.shields.io/badge/Shubhadeep%20Mandal-LinkedIn-blue"></a>
 <br>
 </p>
 
