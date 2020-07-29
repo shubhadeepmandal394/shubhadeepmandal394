@@ -5,8 +5,8 @@
 
 <p align ="center">
 <br>
-    <a href="https://github.com/shubhadeepmandal394"><img src="https://img.shields.io/badge/Welcome-😃-ff69b4"></a>
-    <a href="https://www.linkedin.com/in/shubhadeepmandal394/"><img src="https://img.shields.io/badge/Shubhadeep%20Mandal-LinkedIn-blue"></a>
+    <a href="https://github.com/shubhadeepmandal394"><img src="https://img.shields.io/badge/Welcome-😃-ff69b4"></a> &nbsp; &nbsp;
+    <a href="https://www.linkedin.com/in/shubhadeepmandal394/"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
 <br>
 </p>
 
