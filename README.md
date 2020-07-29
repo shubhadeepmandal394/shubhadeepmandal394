@@ -5,7 +5,7 @@
 
 <p align ="center">
 <br>
-    <a href="https://github.com/shubhadeepmandal394"><img src="https://img.shields.io/badge/Welcome-😃-ff69b4"></a> &nbsp; &nbsp;
+    <a href="https://github.com/shubhadeepmandal394"><img src="https://img.shields.io/badge/Welcome-😃-ff69b4"></a> &nbsp; &nbsp; &nbsp; 
     <a href="https://www.linkedin.com/in/shubhadeepmandal394/"><img src="https://img.shields.io/badge/📝-LinkedIn-blue"></a>
 <br>
 </p>
