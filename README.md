@@ -16,9 +16,9 @@ Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Dev
 
 <hr>
 <p align ="center">
-    <a href="https://shubhadeepmandal394.netlify.app/#contact"><img src="https://img.shields.io/badge/Shubhadeep%20Mandal-Contact%20Me-green"></a>
-    <a href="https://www.freelancer.com/hireme/ImShubhadeep394"><img src="https://img.shields.io/badge/Shubhadeep%20Mandal-Hire%20Me-orange"></a>
-    <a href="https://paypal.me/shubhadeepmandal394?locale.x=en_GB"><img src="https://img.shields.io/badge/Shubhadeep%20Mandal-Support%20Me-blueviolet"></a>
+    <a href="https://shubhadeepmandal394.netlify.app/#contact"><img src="https://img.shields.io/badge/Contact%20Me-green"></a> &nbsp; &nbsp; &nbsp; 
+    <a href="https://www.freelancer.com/hireme/ImShubhadeep394"><img src="https://img.shields.io/badge/Hire%20Me-orange"></a> &nbsp; &nbsp; &nbsp; 
+    <a href="https://paypal.me/shubhadeepmandal394?locale.x=en_GB"><img src="https://img.shields.io/badge/Support%20Me-blueviolet"></a> &nbsp; &nbsp; &nbsp; 
 <br>
 </p>
 
