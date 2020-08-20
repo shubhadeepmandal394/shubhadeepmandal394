@@ -11,7 +11,7 @@
 </p>
 
 Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Developer,an Ethical Hacker and Cyber Security Enthusiast.
-- 🔭 I’m currently working on Bug Hunting Program of Internshala's Ethical Hacking Online Training.
+- 🔭 I’m currently working on Bug Hunting Project of Internshala's Ethical Hacking Online Training.
 - 🌱 I’m currently learning Cybersecurity Roles, Processes & Operating System Security from Coursera.
 
 <hr>
