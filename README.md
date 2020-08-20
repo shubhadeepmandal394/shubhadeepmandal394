@@ -11,8 +11,8 @@
 </p>
 
 Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Developer,an Ethical Hacker and Cyber Security Enthusiast.
-- 🔭 I’m currently working on [Vehicle Authentication Technology](https://github.com/shubhadeepmandal394/vehicle-authentication-technology) Project.
-- 🌱 I’m currently learning Introduction to Cyber Security Tools and Cyber Attacks from Coursera and Ethical Hacking from Internshala.
+- 🔭 I’m currently working on Bug Hunting Program of Internshala's Ethical Training.
+- 🌱 I’m currently learning Cybersecurity Roles, Processes & Operating System Security from Coursera.
 
 <hr>
 <p align ="center">
