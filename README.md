@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 Welcome to my github profile,
-I'm Shubhadeep, a developer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="13"/> [**Kolkata, India**](https://en.wikipedia.org/wiki/Kolkata)
+I'm Shubhadeep, a developer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="12"/> [**Kolkata, India**](https://en.wikipedia.org/wiki/Kolkata)
 
 A postgraduate student, software engineer and longlife learner
 
@@ -25,8 +25,9 @@ Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Dev
  <summary> 📊 <b>My Github Stats :</b> </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=shubhadeepmandal394&show_icons=true&theme=default&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shubhadeepmandal394&hide=css,java,html&theme=default">
+  <img src = "https://github-readme-stats.vercel.app/api?username=shubhadeepmandal394&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shubhadeepmandal394&hide=css,java,html&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34">
+
 </p>
 </details>
 
@@ -40,8 +41,6 @@ Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Dev
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
 
 <br>
 
