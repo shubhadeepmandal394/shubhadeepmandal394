@@ -1,23 +1,19 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Welcome to my github profile,
-I'm Shubhadeep, a developer from [**Kolkata, India**](https://en.wikipedia.org/wiki/Kolkata) <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="12"/>
+<a href="https://github.com/shubhadeepmandal394"><img src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/assets/githubBanner.png"></a>
 
-A postgraduate student, software engineer and longlife learner
+Hi there! Welcome to my github profile,
+I'm Shubhadeep, an engineer from [**Kolkata, India**](https://en.wikipedia.org/wiki/Kolkata) <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="12"/>
 
-<a href="https://shubhadeepmandal394.netlify.app"><img src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/assets/githubBanner.png"></a>
+I am a Web Developer, an Android Application Developer, an Ethical Hacker and a Cyber Security Enthusiast. I like experimenting with new technologies, building small projects, and occassionally joining hackathons.
 
-<p align ="center">
-<br>
-    <a href="https://github.com/shubhadeepmandal394"><img src="https://img.shields.io/badge/Welcome-😃-ff69b4"></a> &nbsp; 
-    <a href="https://www.linkedin.com/in/shubhadeepmandal394/"><img src="https://img.shields.io/badge/Shubhadeep Mandal-LinkedIn-blue"></a>
-<br>
-</p>
+- 🔭 I’m currently I am an undergraduate student at [bppimt](https://bppimt.ac.in)
+- 🌱 I’m currently learning IT security: Defense against the digital dark arts offered by google from [coursera](https://www.coursera.org/user/3ab0ba756fb4a2f2b6e1975d3017d09a)
+- 👯 I’m looking to collaborate on building an Advanced Security System
+- 😄 Pronouns: He/Him/His
+- ⚡ Intresting fact: Wikipedia is maintained by thousands of bots (for more such facts [click here](https://levelup.gitconnected.com/10-amazing-little-known-facts-about-technology-8dbbe27c20fd))
 
-Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Developer, an Ethical Hacker and a Cyber Security Enthusiast.
-
-- 🔭 I’m currently interning as a Software Tester at [Spotlight](https://spotlightpay.com/).
-- 🌱 I’m currently learning IT Security: Defense against the digital dark arts offered by Google from [Coursera](https://www.coursera.org/user/3ab0ba756fb4a2f2b6e1975d3017d09a).
+Want to know more about me? [Check out my portfolio.](https://shubhadeepmandal394.netlify.app/)
 
 <hr>
 
@@ -38,10 +34,28 @@ Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Dev
 
 <br>
 
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
+
+<br>
+
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+
+<br>
+
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
 
+<br>
+
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=4AB197)
 <br>
 
 </details>
