@@ -5,7 +5,7 @@ I'm Shubhadeep, a developer from [**Kolkata, India**](https://en.wikipedia.org/w
 
 A postgraduate student, software engineer and longlife learner
 
-<a href="https://shubhadeepmandal394.netlify.app"><img src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/assets/githubBanner.jpg"></a>
+<a href="https://shubhadeepmandal394.netlify.app"><img src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/assets/githubBanner.png"></a>
 
 <p align ="center">
 <br>
@@ -48,21 +48,13 @@ Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Dev
 
 <hr>
 
-<p align = "center"> Let's connect and chat! I'm open to anything under the sun. </p>
+<p align = "center"> Let's connect and chat! I'm open to anything under the sky. </p>
 <p align = "center">
 <!--<img src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" alt="Facebook" height="40" width="40">-->
 <a href="https://www.facebook.com/shubhadeepmandal394/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://twitter.com/shubhadeep394" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shubhadeepmandal394/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/shubhadeepmandal394" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></p>
-
-<hr>
-<p align ="center">
-    <a href="https://shubhadeepmandal394.netlify.app/#contact"><img src="https://img.shields.io/badge/Shubhadeep Mandal-Contact%20Me-green"></a> &nbsp; &nbsp; 
-    <a href="https://www.freelancer.com/hireme/ImShubhadeep394"><img src="https://img.shields.io/badge/Shubhadeep Mandal-Hire%20Me-orange"></a> &nbsp; &nbsp; 
-    <a href="https://paypal.me/shubhadeepmandal394?locale.x=en_GB"><img src="https://img.shields.io/badge/Shubhadeep Mandal-Support%20Me-blueviolet"></a> &nbsp; 
-<br>
-</p>
 
 <!--
 **shubhadeepmandal394/shubhadeepmandal394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
