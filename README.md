@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 Welcome to my github profile,
-I'm Shubhadeep, a developer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="13"/> Kolkata, West Bengal, India
+I'm Shubhadeep, a developer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="13"/> <b>[Kolkata, India](https://en.wikipedia.org/wiki/Kolkata)<b>
 
 A postgraduate student, software engineer and longlife learner
 
@@ -64,8 +64,6 @@ Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Dev
     <a href="https://paypal.me/shubhadeepmandal394?locale.x=en_GB"><img src="https://img.shields.io/badge/Shubhadeep Mandal-Support%20Me-blueviolet"></a> &nbsp; 
 <br>
 </p>
-
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="shubhadeep394" data-description="Support me on Buy me a coffee!" data-message="" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 <!--
 **shubhadeepmandal394/shubhadeepmandal394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
