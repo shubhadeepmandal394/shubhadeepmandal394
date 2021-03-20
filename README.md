@@ -15,8 +15,12 @@ A postgraduate student, software engineer and longlife learner
 </p>
 
 Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Developer, an Ethical Hacker and a Cyber Security Enthusiast.
+<<<<<<< HEAD
 
 - 🔭 I’m currently interning as a Software Tester at [Spotlight](https://spotlightpay.com/).
+=======
+<!-- 🔭 I’m currently interning as a Software Tester at [Spotlight](https://spotlightpay.com/).-->
+>>>>>>> 50a0e950fe73984f84442cb9cd21d4c9c0cf16ce
 - 🌱 I’m currently learning IT Security: Defense against the digital dark arts offered by Google from [Coursera](https://www.coursera.org/user/3ab0ba756fb4a2f2b6e1975d3017d09a).
 
 <hr>
