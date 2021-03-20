@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 Welcome to my github profile,
-I'm Shubhadeep, a developer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="13"/> <b>[Kolkata, India](https://en.wikipedia.org/wiki/Kolkata)<b>
+I'm Shubhadeep, a developer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="13"/> [**Kolkata, India**](https://en.wikipedia.org/wiki/Kolkata)
 
 A postgraduate student, software engineer and longlife learner
 
