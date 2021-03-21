@@ -32,6 +32,18 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 <hr>
 
 <details>
+ <summary> 🏆 <b>My Github Profile Trophies :</b> </summary>
+<br>
+<p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubhadeepmandal394&title=Commit,Repositories,Stars,Followers,PullRequest&theme=darkhub&no-frame=true&margin-w=2&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+</details>
+
+<hr>
+
+<details>
 <summary> 👨🏻‍💻 <b>My Skills :</b></summary>
 
 <br>
