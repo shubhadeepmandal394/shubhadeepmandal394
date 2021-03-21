@@ -1,15 +1,8 @@
-<table>
-<tr>
-<td><h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see You &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1></td>
-<td align = "right">
-
-![](https://komarev.com/ghpvc/?username=shubhadeepmandal394&color=4AB197&label=Profile+Views)
-
-</td>
-</tr>
- </table>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see You </h1>
 
 <a href="https://github.com/shubhadeepmandal394"><img src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/assets/githubBanner.png"></a>
+
+![](https://komarev.com/ghpvc/?username=shubhadeepmandal394&color=4AB197&label=Profile+Views)
 
 Hi there! Welcome to my github profile,
 I'm Shubhadeep, an Electronics and Communication Engineer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="12"/> [Kolkata, India](https://en.wikipedia.org/wiki/Kolkata)
@@ -35,14 +28,6 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 
 </p>
 <br>
-<p>
-
-![](https://komarev.com/ghpvc/?username=shubhadeepmandal394&color=4AB197)
-![](https://img.shields.io/github/followers/shubhadeepmandal394?color=4AB197&label=Followers&style=social)
-![](https://img.shields.io/github/stars/shubhadeepmandal394?style=social)
-![](https://img.shields.io/github/sponsors/shubhadeepmandal394?style=social)
-
-</p>
 </details>
 
 <hr>
