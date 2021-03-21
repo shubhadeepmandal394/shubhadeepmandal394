@@ -12,6 +12,7 @@ I am a web developer, an android app. developer, an ethical hacker, a cyber seur
 - 🔭 I’m currently I am an undergraduate student at [bppimt](https://bppimt.ac.in)
 - 🌱 I’m currently learning IT security: Defense against the digital dark arts offered by google from [coursera](https://www.coursera.org/user/3ab0ba756fb4a2f2b6e1975d3017d09a)
 - 👯 I’m looking to collaborate on building an advanced security system
+- 💬 Reach me out at [@shubhadeep394](https://twitter.com/shubhadeep394)
 - 😄 Pronouns: He/Him/His
 - ⚡ Intresting fact: Wikipedia is maintained by thousands of bots (for more such facts [click here](https://levelup.gitconnected.com/10-amazing-little-known-facts-about-technology-8dbbe27c20fd))
 
