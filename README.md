@@ -65,6 +65,8 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 </p>
 </details>
 
+<hr>
+
 <p align = "center"> Let's connect and chat! I love connecting with different people, I'm open to anything under the sky. </p>
 <p align = "center">
 <a href="https://www.facebook.com/shubhadeepmandal394/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
