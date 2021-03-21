@@ -36,7 +36,7 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 <br>
 <p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubhadeepmandal394&title=Commit,Repositories,Stars,Followers,PullRequest&theme=darkhub&no-frame=true&margin-w=2&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubhadeepmandal394&title=Commit,Repositories,Stars,Followers,PullRequest&theme=darkhub&no-frame=true&margin-w=2&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 </details>
