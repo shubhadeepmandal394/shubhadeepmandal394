@@ -17,8 +17,6 @@ I am a web developer, an android app. developer, an ethical hacker, a cyber seur
 
 Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394.netlify.app/)
 
-<hr>
-
 <details>
 <summary> 👨🏻‍💻 <b>My Skills :</b></summary>
 
@@ -47,8 +45,6 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 
 </details>
 
-<hr>
-
 <details>
  <summary> 📊 <b>My Github Stats :</b> </summary>
 <br>
@@ -58,8 +54,6 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 
 </p>
 </details>
-
-<hr>
 
 <details>
  <summary> 🏆 <b>My Github Profile Trophies :</b> </summary>
