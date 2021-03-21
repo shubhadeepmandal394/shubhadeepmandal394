@@ -5,7 +5,7 @@
 Hi there! Welcome to my github profile,
 I'm Shubhadeep, an Electronics and Communication Engineer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="12"/> [Kolkata, India](https://en.wikipedia.org/wiki/Kolkata)
 
-I am a Web Developer, an Android Application Developer, an Ethical Hacker, a Cyber Security Enthusiast and a lifelong learner. I like experimenting with new technologies, acquiring new skills, building small projects, and occassionally joining hackathons.
+I am a web developer, an android app. developer, an ethical hacker, a cyber seurity enthusiast and a lifelong learner. I like experimenting with new technologies, acquiring new skills, building small projects, and occassionally joining hackathons.
 
 - 🔭 I’m currently I am an undergraduate student at [bppimt](https://bppimt.ac.in)
 - 🌱 I’m currently learning IT security: Defense against the digital dark arts offered by google from [coursera](https://www.coursera.org/user/3ab0ba756fb4a2f2b6e1975d3017d09a)
@@ -13,16 +13,25 @@ I am a Web Developer, an Android Application Developer, an Ethical Hacker, a Cyb
 - 😄 Pronouns: He/Him/His
 - ⚡ Intresting fact: Wikipedia is maintained by thousands of bots (for more such facts [click here](https://levelup.gitconnected.com/10-amazing-little-known-facts-about-technology-8dbbe27c20fd))
 
-Want to know more about me? [Check out my portfolio.](https://shubhadeepmandal394.netlify.app/)
+Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394.netlify.app/)
 
 <hr>
 
 <details>
  <summary> 📊 <b>My Github Stats :</b> </summary>
 <br>
-<p align = "center">
+<p>
   <img src = "https://github-readme-stats.vercel.app/api?username=shubhadeepmandal394&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shubhadeepmandal394&hide=css,java,html&title_color=ffffff&line_height=27&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34">
+
+</p>
+<br>
+<p>
+
+![](https://komarev.com/ghpvc/?username=shubhadeepmandal394&color=4AB197)
+![](https://img.shields.io/github/followers/shubhadeepmandal394?color=4AB197&label=Followers&style=social)
+![](https://img.shields.io/github/stars/shubhadeepmandal394?style=social)
+![](https://img.shields.io/github/sponsors/shubhadeepmandal394?style=social)
 
 </p>
 </details>
@@ -59,7 +68,7 @@ Want to know more about me? [Check out my portfolio.](https://shubhadeepmandal39
 
 <hr>
 
-<p align = "center"> Let's connect and chat! I'm open to anything under the sky. </p>
+<p align = "center"> Let's connect and chat! I love connecting with different people, I'm open to anything under the sky. </p>
 <p align = "center">
 <a href="https://www.facebook.com/shubhadeepmandal394/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://twitter.com/shubhadeep394" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
