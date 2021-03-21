@@ -20,30 +20,6 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 <hr>
 
 <details>
- <summary> 📊 <b>My Github Stats :</b> </summary>
-<br>
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=shubhadeepmandal394&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shubhadeepmandal394&hide=css,java,html&title_color=ffffff&line_height=27&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34">
-
-</p>
-</details>
-
-<hr>
-
-<details>
- <summary> 🏆 <b>My Github Profile Trophies :</b> </summary>
-<br>
-<p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubhadeepmandal394&title=Commit,Repositories,Stars,Followers,PullRequest&theme=darkhub&no-frame=true&margin-w=2&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
-
-</p>
-</details>
-
-<hr>
-
-<details>
 <summary> 👨🏻‍💻 <b>My Skills :</b></summary>
 
 <br>
@@ -69,6 +45,30 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 ![](https://img.shields.io/badge/Tools-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=4AB197)
 <br>
 
+</details>
+
+<hr>
+
+<details>
+ <summary> 📊 <b>My Github Stats :</b> </summary>
+<br>
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=shubhadeepmandal394&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shubhadeepmandal394&hide=css,java,html&title_color=ffffff&line_height=27&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34">
+
+</p>
+</details>
+
+<hr>
+
+<details>
+ <summary> 🏆 <b>My Github Profile Trophies :</b> </summary>
+<br>
+<p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubhadeepmandal394&title=Commit,Repositories,Stars,Followers,PullRequest,Issues&theme=darkhub&no-frame=true&margin-w=2&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
 </details>
 
 <hr>
