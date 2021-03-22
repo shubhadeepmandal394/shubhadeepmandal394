@@ -5,7 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=shubhadeepmandal394&color=4AB197&label=Profile+Views)](https://github.com/antonkomarev/github-profile-views-counter)
 
 Hi there! Welcome to my github profile,
-I'm Shubhadeep, an Electronics and Communication Engineer from <img src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/assets/indianFlag.png" width="12"/> [Kolkata, India](https://en.wikipedia.org/wiki/Kolkata)
+I'm Shubhadeep, an Electronics and Communication Engineer from [Kolkata](https://en.wikipedia.org/wiki/Kolkata), [India](https://en.wikipedia.org/wiki/India) <img alt="IN" src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/assets/indianFlag.png" width="12"/>
 
 I am a web developer, an android app. developer, an ethical hacker, a cyber seurity enthusiast and a lifelong learner. I like experimenting with new technologies, acquiring new skills, building small projects, and occassionally joining hackathons.
 
