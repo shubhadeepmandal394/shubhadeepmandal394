@@ -51,7 +51,7 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 <br>
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=shubhadeepmandal394&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shubhadeepmandal394&hide=css,java,html&title_color=ffffff&line_height=27&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shubhadeepmandal394&hide=css,java,html,qml&title_color=ffffff&line_height=27&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34">
 
 </p>
 </details>
