@@ -40,10 +40,30 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 ![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
 <br>
 
+![](https://img.shields.io/badge/Tools-Windows-informational?style=flat&logo=windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Kali%20Linux-informational?style=flat&logo=kali-linux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Android%20Studio-informational?style=flat&logo=android-studio&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Microsoft%20Office-informational?style=flat&logo=microsoft-office&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-VMware%20Workstation-informational?style=flat&logo=vmware&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Oracle%20VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Sublime%20Text-informational?style=flat&logo=sublime-text&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Anaconda%20Navigator-informational?style=flat&logo=anaconda&logoColor=white&color=4AB197)
+<br>
+
+![](https://img.shields.io/badge/Electronics-Arduino%20Uno-informational?style=flat&logo=arduino&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Electronics-Raspberry%20Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=4AB197)
 <br>
 
 </details>
