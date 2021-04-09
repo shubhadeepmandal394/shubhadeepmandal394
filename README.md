@@ -55,10 +55,10 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-VMware%20Workstation-informational?style=flat&logo=vmware&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Oracle%20VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Sublime%20Text-informational?style=flat&logo=sublime-text&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-VMware%20Workstation-informational?style=flat&logo=vmware&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Oracle%20VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Anaconda%20Navigator-informational?style=flat&logo=anaconda&logoColor=white&color=4AB197)
 <br>
 
