@@ -29,7 +29,7 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Android%20Studio-informational?style=flat&logo=android-studio&logoColor=white&color=4AB197)
 <br>
 
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
@@ -42,6 +42,7 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Android Studio-informational?style=flat&logo=android-studio&logoColor=white&color=4AB197)
 <br>
 
 </details>
