@@ -73,12 +73,9 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
  <summary> 📊 <b>My Github Stats :</b> </summary>
 <br>
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=shubhadeepmandal394&show_icons=true&line_height=27&count_private=true&theme=gotham">
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhadeepmandal394&theme=gotham)](https://git.io/streak-stats)
-
-  <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shubhadeepmandal394&langs_count=3&hide=css,java,html,qml,c&title_color=ffffff&line_height=27&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34">-->
-
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src = "https://github-readme-stats.vercel.app/api?username=shubhadeepmandal394&show_icons=true&line_height=27&count_private=true&theme=gotham"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shubhadeepmandal394&langs_count=3&hide=css,java,html,qml,c&line_height=27&theme=gotham"></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhadeepmandal394&theme=gotham"></a>
 </p>
 </details>
 
