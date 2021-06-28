@@ -61,6 +61,7 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 ![](https://img.shields.io/badge/Tools-VMware%20Workstation-informational?style=flat&logo=vmware&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Oracle%20VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Anaconda%20Navigator-informational?style=flat&logo=anaconda&logoColor=white&color=4AB197)
+ ![](https://img.shields.io/badge/Tools-Cisco%20Packet%20Tracer-informational?style=flat&logo=cisco&logoColor=white&color=4AB197)
 <br>
 
 ![](https://img.shields.io/badge/Electronics-Arduino%20Uno-informational?style=flat&logo=arduino&logoColor=white&color=4AB197)
