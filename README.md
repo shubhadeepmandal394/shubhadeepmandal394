@@ -9,7 +9,7 @@ I'm Shubhadeep, an Electronics and Communication Engineer from [Kolkata](https:/
 
 I am an ethical hacker, a cybersecurity enthusiast and a lifelong learner. I like experimenting with new technologies, acquiring new skills, building small projects, and occassionally joining hackathons.
 
-- 🔭 I’m currently a cybersecurity specialist at [PwC India](https://www.linkedin.com/company/pwc-india/mycompany/verification/)
+- 🔭 I’m currently associate at [PwC India](https://www.linkedin.com/company/pwc-india/mycompany/verification/)
 - 🌱 I’m currently learning IT security: Defense against the digital dark arts offered by google from [coursera](https://www.coursera.org/user/3ab0ba756fb4a2f2b6e1975d3017d09a)
 - 👯 I’m looking to collaborate on building an advanced security system
 - 💬 Reach me out at twitter [@shubhadeep394](https://twitter.com/shubhadeep394)
