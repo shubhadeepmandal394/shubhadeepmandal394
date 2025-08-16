@@ -95,7 +95,7 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 <p align = "center"> Let's connect and chat! I love connecting with different people, I'm open to anything under the sky. </p>
 <p align = "center">
 <a href="https://www.facebook.com/shubhadeepmandal394/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://twitter.com/shubhadeep394" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://x.com/shubhadeep394" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shubhadeepmandal394/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/shubhadeep394" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></p>
 
