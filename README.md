@@ -5,7 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=shubhadeepmandal394&color=4AB197&label=Profile+Views)](https://github.com/antonkomarev/github-profile-views-counter)
 
 Hi there! Welcome to my github profile,
-I'm Shubhadeep, an Electronics and Communication Engineer from [Kolkata](https://en.wikipedia.org/wiki/Kolkata), [India](https://en.wikipedia.org/wiki/India) <a href="https://en.wikipedia.org/wiki/Flag_of_India"><img alt="IN" src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/assets/indianFlagOriginal.png" width="18"/></a>
+I'm Shubhadeep, an Electronics and Communication Engineer from Kolkata, India <a href="https://en.wikipedia.org/wiki/Flag_of_India"><img alt="IN" src="https://github.com/shubhadeepmandal394/shubhadeepmandal394/blob/master/assets/indianFlagOriginal.png" width="18"/></a>
 
 I am an ethical hacker, a cybersecurity enthusiast and a lifelong learner. I like experimenting with new technologies, acquiring new skills, building small projects, and occasionally joining hackathons.
 
@@ -97,7 +97,7 @@ Want to know more about me? [Check out my portfolio](https://shubhadeepmandal394
 <a href="https://www.facebook.com/shubhadeepmandal394/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://twitter.com/shubhadeep394" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shubhadeepmandal394/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/shubhadeepmandal394" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></p>
+<a href="https://t.me/shubhadeep394" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></p>
 
 <!--
 **shubhadeepmandal394/shubhadeepmandal394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
