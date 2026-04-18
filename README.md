@@ -10,7 +10,7 @@ I'm Shubhadeep, an Electronics and Communication Engineer from Kolkata, India <a
 I am an ethical hacker, a cybersecurity enthusiast and a lifelong learner. I like experimenting with new technologies, acquiring new skills, building small projects, and occasionally joining hackathons.
 
 - 🔭 I’m currently a cybersecurity consultant at [Deloitte USI](https://www.linkedin.com/company/deloitte/)
-- 🌱 I’m currently preparing for [Cloud Digital Leader](https://cloud.google.com/learn/certification/cloud-digital-leader/) certification exam.
+- 🌱 I’m currently preparing for [CompTIA Security+](https://www.comptia.org/en/certifications/security/) certification exam.
 - 👯 I’m looking to collaborate on building an advanced security system
 - 💬 Reach me out at twitter [@shubhadeep394](https://twitter.com/shubhadeep394)
 - 😄 Pronouns: He/Him/His
